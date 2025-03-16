@@ -1,3 +1,9 @@
 git clone https://github.com/rizkyori/tools-doxxing-anak-Teknik/
+
+
+
 cd rizkyori
-python nik.py
+
+
+
+python nik_dox.py
